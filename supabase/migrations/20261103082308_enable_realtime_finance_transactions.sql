@@ -1,0 +1,1 @@
+ALTER TABLE finance_transactions REPLICA IDENTITY FULL;

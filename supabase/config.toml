@@ -1,0 +1,2 @@
+[functions.advisor-chat]
+verify_jwt = false
